@@ -504,3 +504,9 @@
 	<sstream>
 	<iostream>
 
+1744130941 source:c:\users\prisc\onedrive\documentos\programacion1\segundoparcial\prototipop12p2025\buscaminas\main.cpp
+	<iostream>
+	<unistd.h>
+	"Juego.h"
+	"Config.h"
+

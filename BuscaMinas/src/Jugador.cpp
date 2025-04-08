@@ -42,6 +42,6 @@ double Jugador::getTiempoJuego() const {
 void Jugador::mostrarDatosJugador() const {
     cout << "---- DATOS DEL JUGADOR ----" << endl;
     cout << "Nombre: " << nombre << endl;
-    cout << "Puntos: " << puntuacion << endl;
+    cout << "Punteo: " << puntuacion << endl;
     cout << "Tiempo de juego: " << tiempoJuego << " segundos" << endl;
 }
