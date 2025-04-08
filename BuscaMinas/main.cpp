@@ -37,19 +37,18 @@ int main()
             }
         case 2:
             {
-                int vidas = configuracionJuego.getvidasTablero(); // Obtener las vidas de las configuraciones
-
-                Juego juegoTemporal(Tablero(configuracionJuego.getfilasTablero(),
-                                            configuracionJuego.getcolumnasTablero(),
-                                            configuracionJuego.getmodoDesarrolladorTablero()),
-                                    configuracionJuego.getminasTablero());
-
-                juegoTemporal.iniciar(vidas); // Pasar las vidas como parámetro
-
-                cout << "Puntuación; " << juegoTemporal.getScore() << endl;//Muestra la puntuación final
+                int vidas = 3;
+                int filas = 4;
+                int columnas = 4;
+                int minas = 3;
+                bool modoDesarrollador = false;
+                Tablero tablero(filas, columnas, modoDesarrollador);
+                Juego juegoTemporal(tablero, minas);
+                juegoTemporal.iniciar(vidas);
                 system("pause");
                 break;
-            }
+                }
+
         case 3: repetir = false;
                 break;
         }

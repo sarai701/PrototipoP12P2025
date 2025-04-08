@@ -462,3 +462,45 @@
 	<sstream>
 	<iostream>
 
+1744129237 source:c:\users\prisc\onedrive\documentos\programacion1\segundoparcial\prototipop12p2025\buscaminas\src\config.cpp
+	<iostream>
+	<unistd.h>
+	"Config.h"
+
+1744129237 c:\users\prisc\onedrive\documentos\programacion1\segundoparcial\prototipop12p2025\buscaminas\include\config.h
+
+1744130476 source:c:\users\prisc\onedrive\documentos\programacion1\segundoparcial\prototipop12p2025\buscaminas\src\celda.cpp
+	"Celda.h"
+	<iostream>
+
+1744130476 c:\users\prisc\onedrive\documentos\programacion1\segundoparcial\prototipop12p2025\buscaminas\include\celda.h
+
+1744130476 source:c:\users\prisc\onedrive\documentos\programacion1\segundoparcial\prototipop12p2025\buscaminas\src\juego.cpp
+	"Juego.h"
+	<fstream>
+	<unistd.h>
+	<chrono>
+	<iomanip>
+
+1744130476 c:\users\prisc\onedrive\documentos\programacion1\segundoparcial\prototipop12p2025\buscaminas\include\juego.h
+	"Tablero.h"
+	<chrono>
+	<string>
+
+1744130468 c:\users\prisc\onedrive\documentos\programacion1\segundoparcial\prototipop12p2025\buscaminas\include\tablero.h
+	<iostream>
+	<vector>
+	"Celda.h"
+
+1744130476 source:c:\users\prisc\onedrive\documentos\programacion1\segundoparcial\prototipop12p2025\buscaminas\src\jugador.cpp
+	"Jugador.h"
+	<iostream>
+
+1744130476 c:\users\prisc\onedrive\documentos\programacion1\segundoparcial\prototipop12p2025\buscaminas\include\jugador.h
+	<string>
+
+1744130476 source:c:\users\prisc\onedrive\documentos\programacion1\segundoparcial\prototipop12p2025\buscaminas\src\tablero.cpp
+	"Tablero.h"
+	<sstream>
+	<iostream>
+
