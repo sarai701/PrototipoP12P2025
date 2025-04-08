@@ -1,3 +1,4 @@
+//Priscila Sarai Guzmán Calgua 9959-23-450
 #ifndef JUEGO_H
 #define JUEGO_H
 #include "Tablero.h"

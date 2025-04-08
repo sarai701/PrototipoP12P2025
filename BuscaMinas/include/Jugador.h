@@ -1,3 +1,4 @@
+//Prscila Sarai Guzmán Calgua 9959-23-450
 #ifndef JUGADOR_H
 #define JUGADOR_H
 #include <string>

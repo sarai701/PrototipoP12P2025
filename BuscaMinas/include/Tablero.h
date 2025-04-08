@@ -1,3 +1,4 @@
+//Priscila Sarai Guzmán Calgua 9959-23-450
 #ifndef TABLERO_H
 #define TABLERO_H
 #include <iostream>

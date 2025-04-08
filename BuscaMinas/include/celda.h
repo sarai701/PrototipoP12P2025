@@ -1,3 +1,4 @@
+//Priscila Sarai Guzmán Calgua 9959-23-450
 #ifndef CELDA_H
 #define CELDA_H
 //Libreria que guarda los atributos y los prototipos de los metodos utilizados para crear y administrar las celdas de juego
